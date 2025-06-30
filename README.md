@@ -1,5 +1,4 @@
-
-To produce a comprehensive research paper on the AI LLM training workflow focusing on open-source and open-weight models like Qwen/Qwen3-30B-A3B-Base on Hugging Face, I need to deeply analyze and synthesize the following:
+To produce a comprehensive research paper on the AI LLM training workflow focusing on open-source and open-weight models like Qwen/Qwen3-30B-A3B-Base on Hugging Face, You need to deeply analyze and synthesize the following:
 
 1. **Starting Point:** We begin from a pretrained base model with open weights (e.g., Qwen3-30B-A3B-Base).
 2. **Post-Training Steps:** The paper must detail the steps after obtaining the pretrained base:
@@ -10,7 +9,7 @@ To produce a comprehensive research paper on the AI LLM training workflow focusi
 5. **Sources:** Use the provided search results to extract the latest and most relevant information about Qwen/Qwen3, DeepSeek R1, and general LLM training workflows, especially post-training.
 6. **Structure:** The paper should be well-organized, starting with an introduction, followed by detailed sections on each training phase, concluding with future directions and best practices.
 
-I will organize the paper as follows:
+You will organize the paper as follows:
 
 - Abstract
 - Introduction to LLM Training and Qwen Models
@@ -24,7 +23,7 @@ I will organize the paper as follows:
 - Deployment and Inference Optimization
 - Conclusion and Future Work
 
-I will carefully integrate insights from the search results:
+You will carefully integrate insights from the search results:
 
 - Qwen organization and model family details [1]
 - Qwen3 post-training pipeline including multi-stage RL and distillation for smaller models [2][3]
@@ -32,12 +31,11 @@ I will carefully integrate insights from the search results:
 - General LLM pretraining and fine-tuning principles from deeplearning.ai [5]
 - Sparse info on SFT from Hugging Face Qwen SFT model card [6] (limited, so I will supplement with general knowledge)
   
-I will produce code snippets based on Hugging Face Transformers and RLHF frameworks, illustrating SFT and RL steps practically.
+You will produce code snippets based on Hugging Face Transformers and RLHF frameworks, illustrating SFT and RL steps practically.
 
-I will ensure the paper is original, well-structured, and technically detailed to meet the user’s request.
+You will ensure the paper is original, well-structured, and technically detailed to meet the user’s request.
 
-
-
+---
 # AI Large Language Model (LLM) Training Workflow: From Pretrained Base to Advanced Post-Training with Qwen3 and DeepSeek R1
 
 ## Abstract
